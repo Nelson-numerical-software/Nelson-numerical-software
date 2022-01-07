@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text=Nelson's%20Github%20Profile&fontSize=80&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=100&section=header&text=Nelson's%20Github%20Profile&fontSize=15&animation=fadeIn&fontAlignY=38)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Nelson-numerical-software.Nelson-numerical-software)
 
